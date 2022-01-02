@@ -1,22 +1,22 @@
 [
   {
     "name": "Portofolio",
-    "url": "https://rzlamrr.me",
-    "icon": "https://favicons.githubusercontent.com/rzlamrr.me",
+    "url": "https://www.rzlamrr.me",
+    "icon": "https://favicons.githubusercontent.com/www.rzlamrr.me",
     "slug": "portofolio",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "59.71%",
+    "uptimeDay": "59.71%",
+    "uptimeWeek": "59.71%",
+    "uptimeMonth": "59.71%",
+    "uptimeYear": "59.71%",
     "time": 63,
     "timeDay": 63,
     "timeWeek": 63,
     "timeMonth": 63,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2022-01-02": 0
+      "2022-01-02": 37
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 340,
-    "timeDay": 340,
-    "timeWeek": 340,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "time": 350,
+    "timeDay": 350,
+    "timeWeek": 350,
+    "timeMonth": 350,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   }
 ]
