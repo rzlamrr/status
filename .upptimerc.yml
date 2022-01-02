@@ -20,7 +20,16 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER
-  theme: night
+  theme: dark
+
+workflowSchedule:
+  graphs: "5 17 * * *"
+  responseTime: "0 17 * * *"
+  staticSite: "10 17 * * *"
+  summary: "0 17 * * *"
+  updateTemplate: "0 17 * * *"
+  updates: "55 16 * * *"
+  uptime: "*/15 * * * *"
 
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
