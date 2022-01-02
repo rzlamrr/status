@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: Portofolio
-    url: https://rzlamrr.me
+    url: https://www.rzlamrr.me
   - name: Prayer Time
     url: https://jadwal.rzlamrr.me
 
