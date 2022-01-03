@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.rzlamrr.me",
     "slug": "portofolio",
     "status": "up",
-    "uptime": "95.23%",
-    "uptimeDay": "95.23%",
-    "uptimeWeek": "95.23%",
-    "uptimeMonth": "95.23%",
-    "uptimeYear": "95.23%",
-    "time": 83,
-    "timeDay": 83,
-    "timeWeek": 83,
-    "timeMonth": 83,
-    "timeYear": 83,
+    "uptime": "96.40%",
+    "uptimeDay": "96.40%",
+    "uptimeWeek": "96.40%",
+    "uptimeMonth": "96.40%",
+    "uptimeYear": "96.40%",
+    "time": 81,
+    "timeDay": 81,
+    "timeWeek": 81,
+    "timeMonth": 81,
+    "timeYear": 81,
     "dailyMinutesDown": {
       "2022-01-02": 37
     }
@@ -35,6 +35,24 @@
     "timeWeek": 372,
     "timeMonth": 372,
     "timeYear": 372,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "dvstDrive",
+    "url": "https://drive.rzlamrr.me",
+    "icon": "https://favicons.githubusercontent.com/drive.rzlamrr.me",
+    "slug": "dvst-drive",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 365,
+    "timeDay": 365,
+    "timeWeek": 365,
+    "timeMonth": 365,
+    "timeYear": 365,
     "dailyMinutesDown": {}
   }
 ]
