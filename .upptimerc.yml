@@ -11,15 +11,17 @@ sites:
 
 status-website:
   cname: status.rzlamrr.me
+  hideNavTitle: true
   # baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  # name: dvstLab status
+  logoUrl: https://raw.githubusercontent.com/rzlamrr/status/imgbot/assets/upptime-icon.svg
+  faviconSvg: https://raw.githubusercontent.com/rzlamrr/status/imgbot/assets/upptime-icon.svg
+  name: dvstLab status
   navbar:
     - title: Home
       href: https://rzlamrr.me
     - title: GitHub
       href: https://github.com/$OWNER
-  theme: ocean
+  theme: night
 
 workflowSchedule:
   graphs: "5 17 * * *"
