@@ -13,13 +13,13 @@ status-website:
   cname: status.rzlamrr.me
   # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: dvstLab status
+  # name: dvstLab status
   navbar:
-    - title: Status
-      href: /
+    - title: Home
+      href: https://rzlamrr.me
     - title: GitHub
       href: https://github.com/$OWNER
-  theme: dark
+  theme: ocean
 
 workflowSchedule:
   graphs: "5 17 * * *"
