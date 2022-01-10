@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.rzlamrr.me",
     "slug": "portofolio",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 86,
-    "timeDay": 136,
-    "timeWeek": 95,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 84,
+    "timeDay": 57,
+    "timeWeek": 86,
+    "timeMonth": 84,
+    "timeYear": 84,
     "dailyMinutesDown": {
       "2022-01-02": 37
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 571,
-    "timeDay": 335,
-    "timeWeek": 645,
-    "timeMonth": 571,
-    "timeYear": 571,
+    "time": 558,
+    "timeDay": 341,
+    "timeWeek": 363,
+    "timeMonth": 558,
+    "timeYear": 558,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 313,
-    "timeWeek": 327,
-    "timeMonth": 327,
-    "timeYear": 327,
+    "time": 326,
+    "timeDay": 316,
+    "timeWeek": 312,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   }
 ]
