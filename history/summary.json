@@ -24,17 +24,17 @@
     "url": "https://jadwal.rzlamrr.me",
     "icon": "https://favicons.githubusercontent.com/jadwal.rzlamrr.me",
     "slug": "prayer-time",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "95.85%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.65%",
-    "time": 542,
-    "timeDay": 578,
-    "timeWeek": 464,
-    "timeMonth": 542,
-    "timeYear": 542,
+    "time": 534,
+    "timeDay": 537,
+    "timeWeek": 453,
+    "timeMonth": 534,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2022-01-14": 60
     }
