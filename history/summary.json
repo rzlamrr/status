@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 95,
-    "timeDay": 81,
-    "timeWeek": 108,
-    "timeMonth": 95,
-    "timeYear": 95,
+    "time": 94,
+    "timeDay": 71,
+    "timeWeek": 85,
+    "timeMonth": 94,
+    "timeYear": 94,
     "dailyMinutesDown": {
       "2022-01-02": 37
     }
@@ -24,18 +24,19 @@
     "url": "https://jadwal.rzlamrr.me",
     "icon": "https://favicons.githubusercontent.com/jadwal.rzlamrr.me",
     "slug": "prayer-time",
-    "status": "up",
-    "uptime": "99.29%",
+    "status": "down",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
-    "time": 498,
-    "timeDay": 348,
-    "timeWeek": 404,
-    "timeMonth": 498,
-    "timeYear": 498,
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 488,
+    "timeDay": 297,
+    "timeWeek": 385,
+    "timeMonth": 488,
+    "timeYear": 488,
     "dailyMinutesDown": {
+      "2022-01-22": 0,
       "2022-01-16": 52,
       "2022-01-14": 148
     }
@@ -51,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 323,
-    "timeWeek": 352,
-    "timeMonth": 344,
-    "timeYear": 344,
+    "time": 346,
+    "timeDay": 388,
+    "timeWeek": 327,
+    "timeMonth": 346,
+    "timeYear": 346,
     "dailyMinutesDown": {}
   }
 ]
