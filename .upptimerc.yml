@@ -6,6 +6,8 @@ sites:
     url: https://www.rzlamrr.me
   - name: Prayer Time
     url: https://jadwal.rzlamrr.me
+  - name: Secreto
+    url: https://secreto.rzlamrr.me
   - name: dvstDrive
     url: https://drive.rzlamrr.me
 
