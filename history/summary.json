@@ -11,14 +11,36 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 179,
-    "timeDay": 465,
-    "timeWeek": 288,
-    "timeMonth": 265,
+    "timeDay": 180,
+    "timeWeek": 274,
+    "timeMonth": 259,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2022-04-10": 22,
       "2022-03-16": 96,
       "2022-01-02": 37
+    }
+  },
+  {
+    "name": "Secreto",
+    "url": "https://secreto.rzlamrr.me",
+    "icon": "https://favicons.githubusercontent.com/secreto.rzlamrr.me",
+    "slug": "secreto",
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.73%",
+    "time": 599,
+    "timeDay": 469,
+    "timeWeek": 572,
+    "timeMonth": 565,
+    "timeYear": 599,
+    "dailyMinutesDown": {
+      "2022-04-08": 132,
+      "2022-04-07": 14,
+      "2022-04-01": 89
     }
   },
   {
@@ -32,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.63%",
-    "time": 422,
-    "timeDay": 431,
-    "timeWeek": 394,
-    "timeMonth": 497,
-    "timeYear": 422,
+    "time": 421,
+    "timeDay": 287,
+    "timeWeek": 367,
+    "timeMonth": 489,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2022-05-01": 19,
       "2022-04-29": 56,
@@ -51,26 +73,22 @@
     }
   },
   {
-    "name": "Secreto",
-    "url": "https://secreto.rzlamrr.me",
-    "icon": "https://favicons.githubusercontent.com/secreto.rzlamrr.me",
-    "slug": "secreto",
+    "name": "Tasbih Online",
+    "url": "https://tasbih.rzlamrr.me",
+    "icon": "https://favicons.githubusercontent.com/tasbih.rzlamrr.me",
+    "slug": "tasbih-online",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
-    "time": 603,
-    "timeDay": 540,
-    "timeWeek": 602,
-    "timeMonth": 572,
-    "timeYear": 603,
-    "dailyMinutesDown": {
-      "2022-04-08": 132,
-      "2022-04-07": 14,
-      "2022-04-01": 89
-    }
+    "uptimeYear": "100.00%",
+    "time": 278,
+    "timeDay": 278,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
+    "dailyMinutesDown": {}
   },
   {
     "name": "dvstDrive",
@@ -83,11 +101,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 842,
-    "timeWeek": 754,
-    "timeMonth": 710,
-    "timeYear": 590,
+    "time": 592,
+    "timeDay": 750,
+    "timeWeek": 755,
+    "timeMonth": 709,
+    "timeYear": 592,
     "dailyMinutesDown": {}
   }
 ]
