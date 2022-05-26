@@ -4,10 +4,12 @@ repo: status # The name of this repository
 sites:
   - name: Portofolio
     url: https://www.rzlamrr.me
-  - name: Prayer Time
-    url: https://jadwal.rzlamrr.me
   - name: Secreto
     url: https://secreto.rzlamrr.me
+  - name: Prayer Time
+    url: https://jadwal.rzlamrr.me
+  - name: Tasbih Online
+    url: https://tasbih.rzlamrr.me
   - name: dvstDrive
     url: https://drive.rzlamrr.me
 
