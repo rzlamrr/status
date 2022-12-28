@@ -3,18 +3,18 @@ repo: status # The name of this repository
 
 sites:
   - name: Portofolio
-    url: https://www.rzlamrr.me
+    url: https://www.rzlamrr.my.id
   - name: Secreto
-    url: https://secreto.rzlamrr.me
+    url: https://secreto.rzlamrr.my.id
   - name: Prayer Time
-    url: https://jadwal.rzlamrr.me
+    url: https://jadwal.rzlamrr.my.id
   - name: Tasbih Online
-    url: https://tasbih.rzlamrr.me
+    url: https://tasbih.rzlamrr.my.id
   - name: dvstDrive
-    url: https://drive.rzlamrr.me
+    url: https://drive.rzlamrr.my.id
 
 status-website:
-  cname: status.rzlamrr.me
+  cname: status.rzlamrr.my.id
   hideNavTitle: true
   # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/rzlamrr/status/imgbot/assets/upptime-icon.svg
@@ -22,7 +22,7 @@ status-website:
   name: dvstLab status
   navbar:
     - title: Home
-      href: https://rzlamrr.me
+      href: https://rzlamrr.my.id
     - title: GitHub
       href: https://github.com/$OWNER
   theme: night
@@ -37,7 +37,7 @@ workflowSchedule:
   uptime: "*/15 * * * *"
 
 i18n:
-  footer: © 2022 [rzlamrr](https://rzlamrr.me)
+  footer: © 2023 [rzlamrr](https://rzlamrr.my.id)
 
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
