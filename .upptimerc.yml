@@ -12,8 +12,8 @@ sites:
     url: https://jadwal.rzlamrr.my.id
   - name: Tasbih Online
     url: https://tasbih.rzlamrr.my.id
-  - name: dvstDrive
-    url: https://drive.rzlamrr.my.id
+  - name: Awan Abadi
+    url: https://awan.rzlamrr.my.id
 
 status-website:
   cname: status.rzlamrr.my.id
