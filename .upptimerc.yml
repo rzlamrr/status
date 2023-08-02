@@ -4,10 +4,10 @@ repo: status # The name of this repository
 sites:
   - name: Portofolio
     url: https://www.rzlamrr.my.id
+  - name: dVishper
+    url: https://vishper.rzlamrr.my.id
   - name: Islamiah
     url: https://islam.rzlamrr.my.id
-  - name: Secreto
-    url: https://secreto.rzlamrr.my.id
   - name: SpeedTest
     url: https://speed.rzlamrr.my.id
   - name: Prayer Time
@@ -27,6 +27,8 @@ status-website:
   navbar:
     - title: Home
       href: https://rzlamrr.my.id
+    - title: Contact
+      href: https://vishper.rzlamrr.my.id
     - title: GitHub
       href: https://github.com/$OWNER
   theme: night
