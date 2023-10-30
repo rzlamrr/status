@@ -1,7 +1,7 @@
 url: https://jadwal.rzlamrr.my.id
-status: up
-code: 200
-responseTime: 287
-lastUpdated: 2023-10-30T17:15:56.728Z
+status: down
+code: 500
+responseTime: 380
+lastUpdated: 2023-10-30T20:00:47.442Z
 startTime: 2022-01-02T08:14:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
