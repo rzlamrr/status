@@ -13,7 +13,7 @@
     "time": 474,
     "timeDay": 584,
     "timeWeek": 2232,
-    "timeMonth": 1136,
+    "timeMonth": 1117,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2023-08-26": 22,
@@ -39,7 +39,7 @@
     "time": 417,
     "timeDay": 311,
     "timeWeek": 852,
-    "timeMonth": 580,
+    "timeMonth": 571,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2023-10-30": 20
@@ -59,7 +59,7 @@
     "time": 623,
     "timeDay": 623,
     "timeWeek": 561,
-    "timeMonth": 1024,
+    "timeMonth": 1007,
     "timeYear": 623,
     "dailyMinutesDown": {
       "2023-03-13": 74
@@ -79,7 +79,7 @@
     "time": 254,
     "timeDay": 327,
     "timeWeek": 263,
-    "timeMonth": 547,
+    "timeMonth": 537,
     "timeYear": 254,
     "dailyMinutesDown": {}
   },
@@ -89,15 +89,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jadwal.rzlamrr.my.id.ico",
     "slug": "prayer-time",
     "status": "up",
-    "uptime": "69.87%",
+    "uptime": "69.91%",
     "uptimeDay": "98.59%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "67.17%",
+    "uptimeYear": "67.41%",
     "time": 259,
     "timeDay": 326,
     "timeWeek": 248,
-    "timeMonth": 349,
+    "timeMonth": 342,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2023-10-30": 20,
@@ -219,8 +219,7 @@
       "2022-11-04": 1440,
       "2022-11-03": 1440,
       "2022-11-02": 1440,
-      "2022-11-01": 1440,
-      "2022-10-31": 1440
+      "2022-11-01": 1440
     }
   },
   {
@@ -237,7 +236,7 @@
     "time": 192,
     "timeDay": 203,
     "timeWeek": 236,
-    "timeMonth": 376,
+    "timeMonth": 368,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2023-10-30": 20,
@@ -260,7 +259,7 @@
     "time": 441,
     "timeDay": 546,
     "timeWeek": 1136,
-    "timeMonth": 596,
+    "timeMonth": 585,
     "timeYear": 441,
     "dailyMinutesDown": {}
   }
