@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 527,
-    "timeDay": 400,
-    "timeWeek": 1147,
-    "timeMonth": 660,
-    "timeYear": 564,
+    "timeDay": 0,
+    "timeWeek": 1242,
+    "timeMonth": 674,
+    "timeYear": 565,
     "dailyMinutesDown": {
       "2023-08-26": 22
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 337,
-    "timeDay": 187,
-    "timeWeek": 321,
-    "timeMonth": 283,
+    "timeDay": 0,
+    "timeWeek": 364,
+    "timeMonth": 285,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2023-10-30": 20
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 638,
-    "timeDay": 625,
-    "timeWeek": 1256,
-    "timeMonth": 754,
+    "timeDay": 0,
+    "timeWeek": 1417,
+    "timeMonth": 770,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2023-03-13": 74
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 68,
-    "timeWeek": 163,
-    "timeMonth": 164,
+    "timeDay": 0,
+    "timeWeek": 154,
+    "timeMonth": 162,
     "timeYear": 241,
     "dailyMinutesDown": {}
   },
@@ -83,25 +83,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/jadwal.rzlamrr.my.id.ico",
     "slug": "prayer-time",
     "status": "up",
-    "uptime": "74.24%",
+    "uptime": "74.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.10%",
+    "uptimeYear": "98.64%",
     "time": 254,
-    "timeDay": 352,
-    "timeWeek": 916,
-    "timeMonth": 391,
-    "timeYear": 246,
+    "timeDay": 0,
+    "timeWeek": 1050,
+    "timeMonth": 404,
+    "timeYear": 247,
     "dailyMinutesDown": {
       "2023-10-30": 20,
       "2023-02-27": 935,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
-      "2023-02-23": 1440,
-      "2023-02-22": 1440,
-      "2023-02-21": 1440
+      "2023-02-23": 1440
     }
   },
   {
@@ -110,16 +108,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tasbih.rzlamrr.my.id.ico",
     "slug": "tasbih-online",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 315,
-    "timeWeek": 863,
-    "timeMonth": 341,
-    "timeYear": 216,
+    "timeDay": 0,
+    "timeWeek": 988,
+    "timeMonth": 348,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2023-10-30": 20
     }
@@ -136,10 +134,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 433,
-    "timeDay": 564,
-    "timeWeek": 410,
-    "timeMonth": 376,
-    "timeYear": 437,
+    "timeDay": 0,
+    "timeWeek": 383,
+    "timeMonth": 380,
+    "timeYear": 436,
     "dailyMinutesDown": {}
   }
 ]
