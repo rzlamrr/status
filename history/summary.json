@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rzlamrr.my.id.ico",
     "slug": "portofolio",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 535,
-    "timeDay": 663,
-    "timeWeek": 483,
-    "timeMonth": 670,
-    "timeYear": 571,
+    "time": 536,
+    "timeDay": 388,
+    "timeWeek": 491,
+    "timeMonth": 520,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2023-08-26": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 334,
-    "timeDay": 178,
-    "timeWeek": 265,
-    "timeMonth": 316,
-    "timeYear": 334,
+    "time": 333,
+    "timeDay": 214,
+    "timeWeek": 261,
+    "timeMonth": 287,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2023-10-30": 20
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 642,
-    "timeDay": 569,
-    "timeWeek": 643,
-    "timeMonth": 865,
-    "timeYear": 647,
+    "timeDay": 546,
+    "timeWeek": 620,
+    "timeMonth": 699,
+    "timeYear": 646,
     "dailyMinutesDown": {}
   },
   {
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 181,
-    "timeWeek": 252,
-    "timeMonth": 216,
-    "timeYear": 244,
+    "timeDay": 289,
+    "timeWeek": 266,
+    "timeMonth": 221,
+    "timeYear": 245,
     "dailyMinutesDown": {}
   },
   {
@@ -81,15 +81,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jadwal.rzlamrr.my.id.ico",
     "slug": "prayer-time",
     "status": "up",
-    "uptime": "75.01%",
+    "uptime": "75.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 268,
-    "timeWeek": 258,
-    "timeMonth": 450,
+    "timeDay": 294,
+    "timeWeek": 266,
+    "timeMonth": 294,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2023-10-30": 20
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 223,
-    "timeWeek": 217,
-    "timeMonth": 395,
+    "timeDay": 106,
+    "timeWeek": 208,
+    "timeMonth": 243,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2023-10-30": 20
@@ -127,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 433,
-    "timeDay": 420,
-    "timeWeek": 440,
-    "timeMonth": 424,
+    "timeDay": 333,
+    "timeWeek": 422,
+    "timeMonth": 425,
     "timeYear": 430,
     "dailyMinutesDown": {}
   }
