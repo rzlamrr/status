@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 536,
-    "timeDay": 388,
-    "timeWeek": 491,
-    "timeMonth": 520,
+    "timeDay": 603,
+    "timeWeek": 487,
+    "timeMonth": 506,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2023-08-26": 22
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 333,
-    "timeDay": 214,
-    "timeWeek": 261,
-    "timeMonth": 287,
+    "timeDay": 211,
+    "timeWeek": 255,
+    "timeMonth": 286,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2023-10-30": 20
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 642,
-    "timeDay": 546,
-    "timeWeek": 620,
-    "timeMonth": 699,
+    "timeDay": 456,
+    "timeWeek": 612,
+    "timeMonth": 693,
     "timeYear": 646,
     "dailyMinutesDown": {}
   },
@@ -70,8 +70,8 @@
     "uptimeYear": "100.00%",
     "time": 238,
     "timeDay": 289,
-    "timeWeek": 266,
-    "timeMonth": 221,
+    "timeWeek": 284,
+    "timeMonth": 227,
     "timeYear": 245,
     "dailyMinutesDown": {}
   },
@@ -81,15 +81,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jadwal.rzlamrr.my.id.ico",
     "slug": "prayer-time",
     "status": "up",
-    "uptime": "75.04%",
+    "uptime": "75.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 294,
-    "timeWeek": 266,
-    "timeMonth": 294,
+    "timeDay": 102,
+    "timeWeek": 242,
+    "timeMonth": 285,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2023-10-30": 20
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 106,
-    "timeWeek": 208,
-    "timeMonth": 243,
+    "timeDay": 98,
+    "timeWeek": 173,
+    "timeMonth": 238,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2023-10-30": 20
@@ -127,8 +127,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 433,
-    "timeDay": 333,
-    "timeWeek": 422,
+    "timeDay": 388,
+    "timeWeek": 433,
     "timeMonth": 425,
     "timeYear": 430,
     "dailyMinutesDown": {}
