@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vishper.rzlamrr.my.id.ico",
     "slug": "d-vishper",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 326,
     "timeDay": 669,
     "timeWeek": 359,
     "timeMonth": 307,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2024-06-20": 8,
       "2023-10-30": 20
     }
   },
@@ -45,19 +44,19 @@
     "url": "https://islam.rzlamrr.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/islam.rzlamrr.my.id.ico",
     "slug": "islamiah",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 376,
-    "timeWeek": 566,
-    "timeMonth": 850,
-    "timeYear": 719,
+    "time": 666,
+    "timeDay": 595,
+    "timeWeek": 618,
+    "timeMonth": 855,
+    "timeYear": 720,
     "dailyMinutesDown": {
-      "2024-06-20": 0
+      "2024-06-20": 15
     }
   },
   {
