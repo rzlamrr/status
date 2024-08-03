@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 564,
-    "timeDay": 336,
-    "timeWeek": 455,
-    "timeMonth": 511,
+    "timeDay": 354,
+    "timeWeek": 451,
+    "timeMonth": 503,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2023-08-26": 22
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 158,
-    "timeWeek": 242,
-    "timeMonth": 287,
+    "timeDay": 310,
+    "timeWeek": 254,
+    "timeMonth": 284,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2023-10-30": 20
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 690,
-    "timeDay": 457,
-    "timeWeek": 507,
-    "timeMonth": 950,
-    "timeYear": 754,
+    "timeDay": 634,
+    "timeWeek": 522,
+    "timeMonth": 947,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2024-06-20": 15
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 106,
-    "timeWeek": 159,
-    "timeMonth": 222,
+    "timeDay": 228,
+    "timeWeek": 178,
+    "timeMonth": 219,
     "timeYear": 242,
     "dailyMinutesDown": {}
   },
@@ -83,15 +83,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jadwal.rzlamrr.my.id.ico",
     "slug": "prayer-time",
     "status": "up",
-    "uptime": "78.71%",
+    "uptime": "78.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 195,
-    "timeWeek": 226,
-    "timeMonth": 243,
+    "timeDay": 142,
+    "timeWeek": 223,
+    "timeMonth": 238,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2023-10-30": 20
@@ -109,7 +109,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 148,
+    "timeDay": 116,
     "timeWeek": 175,
     "timeMonth": 172,
     "timeYear": 229,
@@ -130,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 390,
-    "timeWeek": 407,
-    "timeMonth": 399,
+    "timeDay": 341,
+    "timeWeek": 406,
+    "timeMonth": 398,
     "timeYear": 441,
     "dailyMinutesDown": {}
   }
