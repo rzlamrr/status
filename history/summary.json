@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 741,
-    "timeWeek": 485,
-    "timeMonth": 507,
-    "timeYear": 603,
+    "time": 565,
+    "timeDay": 698,
+    "timeWeek": 480,
+    "timeMonth": 514,
+    "timeYear": 604,
     "dailyMinutesDown": {
       "2023-08-26": 22
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 321,
-    "timeDay": 274,
-    "timeWeek": 231,
-    "timeMonth": 273,
+    "timeDay": 307,
+    "timeWeek": 233,
+    "timeMonth": 276,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2023-10-30": 20
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 691,
-    "timeDay": 546,
-    "timeWeek": 547,
-    "timeMonth": 935,
-    "timeYear": 754,
+    "timeDay": 798,
+    "timeWeek": 569,
+    "timeMonth": 644,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2024-06-20": 15
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 138,
-    "timeWeek": 173,
-    "timeMonth": 217,
+    "timeDay": 329,
+    "timeWeek": 192,
+    "timeMonth": 218,
     "timeYear": 242,
     "dailyMinutesDown": {}
   },
@@ -83,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jadwal.rzlamrr.my.id.ico",
     "slug": "prayer-time",
     "status": "up",
-    "uptime": "78.78%",
+    "uptime": "78.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
-    "timeDay": 96,
-    "timeWeek": 168,
-    "timeMonth": 233,
-    "timeYear": 257,
+    "timeDay": 103,
+    "timeWeek": 159,
+    "timeMonth": 227,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2023-10-30": 20
     }
@@ -109,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 87,
-    "timeWeek": 157,
-    "timeMonth": 168,
+    "timeDay": 97,
+    "timeWeek": 150,
+    "timeMonth": 165,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2024-05-15": 16,
@@ -130,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 421,
-    "timeDay": 561,
-    "timeWeek": 396,
-    "timeMonth": 402,
+    "timeDay": 355,
+    "timeWeek": 393,
+    "timeMonth": 400,
     "timeYear": 441,
     "dailyMinutesDown": {}
   }
