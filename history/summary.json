@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.rzlamrr.my.id.ico",
     "slug": "portofolio",
     "status": "up",
-    "uptime": "93.01%",
+    "uptime": "93.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.49%",
-    "uptimeYear": "70.47%",
+    "uptimeMonth": "40.78%",
+    "uptimeYear": "70.58%",
     "time": 624,
-    "timeDay": 555,
-    "timeWeek": 608,
-    "timeMonth": 431,
-    "timeYear": 629,
+    "timeDay": 376,
+    "timeWeek": 575,
+    "timeMonth": 441,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2026-05-05": 1096,
       "2026-05-04": 1440,
@@ -125,8 +125,7 @@
       "2026-01-19": 1141,
       "2025-11-18": 64,
       "2025-09-03": 178,
-      "2025-05-18": 567,
-      "2025-05-17": 974
+      "2025-05-18": 567
     }
   },
   {
@@ -135,16 +134,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vishper.rzlamrr.my.id.ico",
     "slug": "d-vishper",
     "status": "up",
-    "uptime": "89.42%",
+    "uptime": "89.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.49%",
-    "uptimeYear": "70.47%",
+    "uptimeMonth": "40.78%",
+    "uptimeYear": "70.59%",
     "time": 327,
-    "timeDay": 205,
-    "timeWeek": 297,
-    "timeMonth": 270,
-    "timeYear": 338,
+    "timeDay": 190,
+    "timeWeek": 273,
+    "timeMonth": 266,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2026-05-05": 1096,
       "2026-05-04": 1440,
@@ -255,8 +254,7 @@
       "2026-01-19": 1141,
       "2025-11-18": 31,
       "2025-09-03": 178,
-      "2025-05-18": 567,
-      "2025-05-17": 974
+      "2025-05-18": 567
     }
   },
   {
@@ -265,16 +263,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/islam.rzlamrr.my.id.ico",
     "slug": "islamiah",
     "status": "up",
-    "uptime": "90.74%",
+    "uptime": "90.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.49%",
-    "uptimeYear": "70.47%",
+    "uptimeMonth": "40.78%",
+    "uptimeYear": "70.58%",
     "time": 592,
-    "timeDay": 1013,
-    "timeWeek": 665,
-    "timeMonth": 440,
-    "timeYear": 558,
+    "timeDay": 492,
+    "timeWeek": 622,
+    "timeMonth": 458,
+    "timeYear": 560,
     "dailyMinutesDown": {
       "2026-05-05": 1096,
       "2026-05-04": 1440,
@@ -386,8 +384,7 @@
       "2025-11-18": 31,
       "2025-10-23": 38,
       "2025-09-03": 178,
-      "2025-05-18": 567,
-      "2025-05-17": 974
+      "2025-05-18": 567
     }
   },
   {
@@ -396,18 +393,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/speed.rzlamrr.my.id.ico",
     "slug": "speed-test",
     "status": "down",
-    "uptime": "78.57%",
+    "uptime": "78.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "29.22%",
+    "uptimeYear": "29.06%",
     "time": 314,
-    "timeDay": 51,
-    "timeWeek": 57,
-    "timeMonth": 153,
+    "timeDay": 31,
+    "timeWeek": 52,
+    "timeMonth": 144,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2026-05-16": 1074,
+      "2026-05-17": 1076,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -665,8 +663,7 @@
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 749,
-      "2025-05-18": 567,
-      "2025-05-17": 974
+      "2025-05-18": 567
     }
   },
   {
@@ -675,16 +672,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jadwal.rzlamrr.my.id.ico",
     "slug": "prayer-time",
     "status": "up",
-    "uptime": "80.66%",
+    "uptime": "80.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.49%",
-    "uptimeYear": "70.48%",
+    "uptimeMonth": "40.78%",
+    "uptimeYear": "70.60%",
     "time": 314,
-    "timeDay": 331,
-    "timeWeek": 297,
-    "timeMonth": 271,
-    "timeYear": 329,
+    "timeDay": 231,
+    "timeWeek": 287,
+    "timeMonth": 274,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2026-05-05": 1097,
       "2026-05-04": 1440,
@@ -794,8 +791,7 @@
       "2026-01-20": 1440,
       "2026-01-19": 1141,
       "2025-09-03": 178,
-      "2025-05-18": 567,
-      "2025-05-17": 974
+      "2025-05-18": 567
     }
   },
   {
@@ -807,13 +803,13 @@
     "uptime": "92.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.49%",
-    "uptimeYear": "70.48%",
+    "uptimeMonth": "40.78%",
+    "uptimeYear": "70.60%",
     "time": 251,
-    "timeDay": 249,
-    "timeWeek": 229,
-    "timeMonth": 202,
-    "timeYear": 259,
+    "timeDay": 334,
+    "timeWeek": 234,
+    "timeMonth": 210,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2026-05-05": 1097,
       "2026-05-04": 1440,
@@ -923,8 +919,7 @@
       "2026-01-20": 1440,
       "2026-01-19": 1141,
       "2025-09-03": 178,
-      "2025-05-18": 567,
-      "2025-05-17": 974
+      "2025-05-18": 567
     }
   },
   {
@@ -933,16 +928,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/awan.rzlamrr.my.id.ico",
     "slug": "awan-abadi",
     "status": "up",
-    "uptime": "91.00%",
+    "uptime": "91.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.49%",
-    "uptimeYear": "70.47%",
+    "uptimeMonth": "40.78%",
+    "uptimeYear": "70.59%",
     "time": 460,
-    "timeDay": 498,
-    "timeWeek": 404,
-    "timeMonth": 413,
-    "timeYear": 479,
+    "timeDay": 386,
+    "timeWeek": 391,
+    "timeMonth": 421,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2026-05-05": 1097,
       "2026-05-04": 1440,
@@ -1053,8 +1048,7 @@
       "2026-01-19": 1141,
       "2025-11-18": 41,
       "2025-09-03": 178,
-      "2025-05-18": 567,
-      "2025-05-17": 974
+      "2025-05-18": 567
     }
   }
 ]
